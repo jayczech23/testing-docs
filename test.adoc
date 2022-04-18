@@ -8,3 +8,5 @@
 * Bullet 4 diff!
 
 image::images\test-4fe52.png[]
+
+image::images\test-4cd58.png[]
